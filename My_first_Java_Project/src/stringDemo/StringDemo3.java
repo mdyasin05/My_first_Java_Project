@@ -8,6 +8,7 @@ public class StringDemo3 {
 		String expected="selenium";
 		boolean status=actual.contains(expected);  //this is very case sensitive 
 		
+		
 		System.out.println("the status is "+status);
 	}
 
